@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+#### i use the README to get Github Premium :)
+
 <!--
 **damnn-daniel/damnn-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
